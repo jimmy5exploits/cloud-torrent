@@ -1,7 +1,7 @@
 {
 	"name": "ubuntu-downloader",
-	"website": "",
-	"repository": "",
+	"website": "example.com",
+	"repository": "github.com/jimmy5exploits/ubuntu-downloader",
 	"env": {
 		"TITLE": {
 			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
